@@ -1,8 +1,5 @@
-var options = ["Dam", "M.Base", "Quarry", "Airport", "TV Stat", "Lumber", "Stadium", "St. Town", "SuperS.", "Bone.", "Train S.", "Hosp.", 
-"Down.", "Farm.", "P. East", "P. West", "Hills", "Park", "Port", "Prison"];
-
-var options2 = ["Prison", "Prison", "Prison", "Clubs", "Prison", "Prison", "Prison", "Clubs", "Prison", "Prison", "Prison", "Clubs", 
-"Prison.", "Prison", "Prison", "Clubs", "Prison", "Prison", "Prison", "Clubs"];
+var options = ["Kilo", "FAL", "M4A1", "FR", "Oden", "M13", "Scar", "AK-47", "RAM", "AUG", "P90", "MP5", 
+"Uzi", "PP19", "MP7", "Model", "R9", "725", "OR12", "PKM", "SA87", "M91", "MG34", "Holg", "EBR", "MK2", "Kar98", "Drag", "HDR", "AX-50", "Riot", "None"];
 
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);

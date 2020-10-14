@@ -1,5 +1,4 @@
-var options = ["Kilo", "FAL", "M4A1", "FR", "Oden", "M13", "Scar", "AK-47", "RAM", "AUG", "P90", "MP5", 
-"Uzi", "PP19", "MP7", "Model", "R9", "725", "OR12", "PKM", "SA87", "M91", "MG34", "Holg", "EBR", "MK2", "Kar98", "Drag", "HDR", "AX-50", "Riot", "None"];
+var options = ["FAL", "Oden", "AUG", "P90", "PP19 Bizon", "R9-0", "Origin-12", "M91", "Kar98k", "AX-50"];
 
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
